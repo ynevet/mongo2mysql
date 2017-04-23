@@ -1,4 +1,4 @@
-**Data Import Tool**
+**MongoDB to MySql DB Import Tool**
 
 
 Pre Requirements:
