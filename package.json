@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "mongodb": "^2.2.25",
+    "mysql2": "^1.2.0"
+  },
+  "name": "sites_data_migration_tool",
+  "description": "**Sites Migration Tool**",
+  "version": "1.0.0",
+  "main": "program.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://il1a-gl-dev.gigya.net/yair.ne/SitesMigrator.git"
+  },
+  "author": "Gigya (Yair Nevet)",
+  "license": "ISC",
+  "bin": {
+    "migratesites": "program.js"
+  }
+}
