@@ -9,7 +9,7 @@ config.mySqlConnString = {
     host: 'xxxxxxxx',
     user: 'x',
     password: 'y',
-    database: 'someDBName
+    database: 'someDBName'
 };
 
 module.exports = config;
