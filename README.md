@@ -1,4 +1,4 @@
-**A Node.js-based MongoDB to MySql data import tool**
+**A NodeJS-based tool to import data from MongoDB to MySql**
 
 
 Pre Requirements:
